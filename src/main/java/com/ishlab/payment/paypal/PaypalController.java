@@ -1,6 +1,6 @@
 package com.ishlab.payment.paypal;
 
-import com.ishlab.payment.config.service.PaypalService;
+import com.ishlab.payment.service.PaypalService;
 import com.paypal.api.payments.Links;
 import com.paypal.api.payments.Payment;
 import com.paypal.base.rest.PayPalRESTException;

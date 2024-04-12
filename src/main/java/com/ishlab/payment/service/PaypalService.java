@@ -1,4 +1,4 @@
-package com.ishlab.payment.config.service;
+package com.ishlab.payment.service;
 
 import com.paypal.api.payments.Amount;
 import com.paypal.api.payments.Payer;
