@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: paypal-integration
+
+paypal:
+    client-id: AT0OyzCEOyuywEdp8nxMxwOJI7aFTCNJJPPHqVJe41QQs-90GZDF_ATs8oe9z38UBQaDnaaQnP0h_Tqa
+    client-secret: SECRET
+    mode: sandbox # mock payment mode for testing,  'live' for production
